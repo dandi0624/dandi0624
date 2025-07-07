@@ -20,10 +20,9 @@
   
 </div>
 
-<div>
-  <h2>📈 통계 </h2>
-  ![dandi0624's GitHub stats](https://github-readme-stats.vercel.app/api?username=dandi0624&show_icons=true&theme=gradient)
+## 📈 통계
 
+![dandi0624's GitHub stats](https://github-readme-stats.vercel.app/api?username=dandi0624&show_icons=true&theme=gradient)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandi0624&layout=compact)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandi0624&layout=compact)
+
