@@ -22,7 +22,7 @@
 
 <div>
   <h2>📈 통계 </h2>
-  ![dandi0624's GitHub stats](https://github-readme-stats.vercel.app/api?username=dandi0624&show_icons=true&bg_color=e0c3fc&title_color=ffffff&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandi0624&layout=compact)
+  ![dandi0624's GitHub stats](https://github-readme-stats.vercel.app/api?username=dandi0624&show_icons=true&theme=gradient)
+  <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandi0624&layout=compact)
 </div>
