@@ -18,6 +18,7 @@
 <br>
 <div>
   <h3>🛠 Development Stack</h3>
+  <hr>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
@@ -34,6 +35,7 @@
 <br>
 <div>
   <h3>📈 통계</h3>
+  <hr>
   <img src="https://github-readme-stats.vercel.app/api?username=dandi0624&show_icons=true&bg_color=bfcbf9&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandi0624&layout=compact" />
